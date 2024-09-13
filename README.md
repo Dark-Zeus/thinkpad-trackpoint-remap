@@ -1,4 +1,5 @@
 # ThinkPad TrackPoint Remap
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Dark-Zeus/thinkpad-trackpoint-remap?label=Github%20Release)
 
 This project remaps the input of a ThinkPad TrackPoint to the arrow keys (Up, Down, Left, Right). It was created to address a personal situation where the physical arrow keys on the keyboard were broken, but the TrackPoint was still functional.
 
